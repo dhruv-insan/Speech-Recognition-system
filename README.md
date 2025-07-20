@@ -16,7 +16,7 @@ AI-Powered Voice Transcriber
   
  Developed By
  
- Aditya Kumar
+ Dhruv Chaudary
  B.Tech CSE(AI), Teerthanker Mahaveer University
 
  This project is created for academic submission and open for educational use.
